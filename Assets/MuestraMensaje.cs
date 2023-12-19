@@ -7,7 +7,7 @@ public class MuestraMensaje : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Wola mundo");
+        Debug.Log("Hello mundo");
     }
 
     // Update is called once per frame
