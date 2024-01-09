@@ -8,6 +8,7 @@ public class MuestraMensaje : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello mundo");
+        Debug.Log("Otro mensaje");
     }
 
     // Update is called once per frame
